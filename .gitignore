@@ -1,6 +1,6 @@
 *.iml
 .idea/
 out/
-.class
-
+*.class
+*.zip
 workspace.xml
