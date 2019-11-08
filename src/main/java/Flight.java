@@ -1,2 +1,3 @@
-public class Flight {
+public class Flight extends Flights {
+
 }
